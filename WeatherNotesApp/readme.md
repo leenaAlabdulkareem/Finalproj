@@ -36,9 +36,9 @@ the notes it self as you want.
         </script>
         
         
-      and also i got a help in implementing the code from this reference:
+        and also i got a help in implementing the code from this reference:
       
-      (https://softauthor.com/learn-to-build-firebase-crud-app-with-javascript-part01-reading-data/)
+        (https://softauthor.com/learn-to-build-firebase-crud-app-with-javascript-part01-reading-data/)
 
 
 
