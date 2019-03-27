@@ -12,12 +12,12 @@ the notes it self as you want.
 
 ### Technical Requirements
 
-- The implementation done by the follwoing steps: 
-  - 1- Search for suitable design and this link "https://cosmicjs.com/apps/todo-app/demo" 
+- *The implementation done by the follwoing steps:* 
+ - *1* Search for suitable design and this link "https://cosmicjs.com/apps/todo-app/demo" 
      was helpful in getting the suitable theme,the main library i used 
      and i learned from it was bootstrap library which is a public library from twitter for free.
 
-  - 2- after finishing the desgin, I start implement the add/edit/delete forms (CRUD) 
+ - *2* after finishing the desgin, I start implement the add/edit/delete forms (CRUD) 
      in addition to the list of notes  and prepare to store the data from add/edit forms into
      he database (firebase) using the following scripts:
      
@@ -37,12 +37,11 @@ the notes it self as you want.
         
         
       and also i got a help in implementing the code from this reference:
-      
-      https://softauthor.com/learn-to-build-firebase-crud-app-with-javascript-part01-reading-data/
+      (https://softauthor.com/learn-to-build-firebase-crud-app-with-javascript-part01-reading-data/)
 
 
 
-  - 3- Now its time to implement the weather widges from a public API 
+ - *3* Now its time to implement the weather widges from a public API 
       "https://openweathermap.org/api" as the following:
 
       A- Sign up to the website and I recieve an email containing API key and endpoint
