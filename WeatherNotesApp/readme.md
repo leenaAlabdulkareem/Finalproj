@@ -37,6 +37,7 @@ the notes it self as you want.
         
         
       and also i got a help in implementing the code from this reference:
+      
       (https://softauthor.com/learn-to-build-firebase-crud-app-with-javascript-part01-reading-data/)
 
 
@@ -49,8 +50,7 @@ the notes it self as you want.
       B- the waether API provide a city list of the cities ID, so I can chanege the ID sent to API easily.
           
       C- The Url Calling is like this  
-      
-      "http://api.openweathermap.org/data/2.5/weather?id=102358&APPID=8c6d73486a4a9e184a4e3d4caf2e8d4d" 
+      ("http://api.openweathermap.org/data/2.5/weather?id=102358&APPID=8c6d73486a4a9e184a4e3d4caf2e8d4d")
        The id means the city Id that i get from city.list.json file and APPID is the API Key.
                 
       D- Calling the weather API in weather.js file and the API will retrieve json result and 
