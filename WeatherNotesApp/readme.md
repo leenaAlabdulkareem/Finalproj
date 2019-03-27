@@ -38,26 +38,26 @@ the notes it self as you want.
         
       and also i got a help in implementing the code from this reference:
       
-        (https://softauthor.com/learn-to-build-firebase-crud-app-with-javascript-part01-reading-data/)
+       (https://softauthor.com/learn-to-build-firebase-crud-app-with-javascript-part01-reading-data/)
 
 
 
   - *3* Now its time to implement the weather widges from a public API 
       "https://openweathermap.org/api" as the following:
 
-        A- Sign up to the website and I recieve an email containing API key and endpoint
+       A- Sign up to the website and I recieve an email containing API key and endpoint
 
-        B- the waether API provide a city list of the cities ID, so I can chanege the ID sent to API easily.
+       B- the waether API provide a city list of the cities ID, so I can chanege the ID sent to API easily.
           
-        C- The Url Calling is like this  
-        (http://api.openweathermap.org/data/2.5/weather?id=102358&APPID=8c6d73486a4a9e184a4e3d4caf2e8d4d)
-        The id means the city Id that i get from city.list.json file and APPID is the API Key.
+       C- The Url Calling is like this  
+       (http://api.openweathermap.org/data/2.5/weather?id=102358&APPID=8c6d73486a4a9e184a4e3d4caf2e8d4d)
+       The id means the city Id that i get from city.list.json file and APPID is the API Key.
                 
-        D- Calling the weather API in weather.js file and the API will retrieve json result and 
-        will be fetch the needed data insdie the element in html page using jquery.
+       D- Calling the weather API in weather.js file and the API will retrieve json result and 
+       will be fetch the needed data insdie the element in html page using jquery.
       
-        E- Calling the weather API when click on Adding the note to store (temperature, wind, humditiy) 
-        in addition to title and description inside the database for each note submitted.
+       E- Calling the weather API when click on Adding the note to store (temperature, wind, humditiy) 
+       in addition to title and description inside the database for each note submitted.
 
 
 - Hosting
