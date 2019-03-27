@@ -20,7 +20,8 @@ the notes it self as you want.
   - 2- after finishing the desgin, I start implement the add/edit/delete forms (CRUD) 
      in addition to the list of notes  and prepare to store the data from add/edit forms into
      he database (firebase) using the following scripts:
-     <script src="https://www.gstatic.com/firebasejs/5.9.1/firebase.js"></script>
+     
+        <script src="https://www.gstatic.com/firebasejs/5.9.1/firebase.js"> </script>
         <script>
           // Initialize Firebase
           var config = {
